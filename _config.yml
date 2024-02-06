@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "meijieun"
-description              : "An amazing website."
+description              : "Discover my GitHub for snapshots of everyday life in Tokyo and exciting study-abroad escapades in the US!🌟"
 url                      : "https://meijieun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -80,8 +80,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+instagram:
+  username               : ponzueun
 facebook:
   username               :
   app_id                 :
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jieun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I'm someone who loves to **discover, create, and contribute positively**."
+  location         : "Based in Tokyo"
+  email            : "meijieun.kim@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -132,9 +132,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Instagram"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://www.instagram.com/ponzueun/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
