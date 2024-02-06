@@ -125,14 +125,11 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ponzueun"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://www.instagram.com/ponzueun/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -147,7 +144,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url:"https://instagram.com/pozueun"
 
 
 # Reading Files
