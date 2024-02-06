@@ -80,8 +80,6 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-instagram:
-  username               : ponzueun
 facebook:
   username               :
   app_id                 :
@@ -127,7 +125,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/ponzueun"
 
 # Site Footer
 footer:
